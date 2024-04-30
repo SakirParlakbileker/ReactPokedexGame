@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600;700;900&display=swap");
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Inter", sans-serif;
+  background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+  font-weight: bold;
+  text-align: center;
+  font-family: "Inter";
+}
+
+code {
+  font-family: "Amatic SC", sans-serif;
+}
